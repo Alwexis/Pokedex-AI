@@ -48,9 +48,9 @@ I am currently in the eighth architecture of the Deep Learning model. Previously
 | 11 | Metapod | 350 | 🟩 |
 | 12 | Butterfree | 350 | 🟩 |
 | 13 | Weedle | 350 | 🟩 |
-| 14 | Kakuna | 0 | 🟨 |
-| 15 | Beedrill | 0 | ⬛ |
-| 16 | Pidgey | 0 | ⬛ |
+| 14 | Kakuna | 0 | 🟩 |
+| 15 | Beedrill | 0 | 🟩 |
+| 16 | Pidgey | 0 | 🟨 |
 | 17 | Pidgeotto | 0 | ⬛ |
 | 18 | Pidgeot | 0 | ⬛ |
 | 19 | Rattata | 0 | ⬛ |
