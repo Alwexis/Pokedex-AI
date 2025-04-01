@@ -51,10 +51,10 @@ I am currently in the eighth architecture of the Deep Learning model. Previously
 | 14 | Kakuna | 350 | 🟩 |
 | 15 | Beedrill | 350 | 🟩 |
 | 16 | Pidgey | 350 | 🟩 |
-| 17 | Pidgeotto | 50 | 🟨 |
-| 18 | Pidgeot | 50 | 🟨 |
-| 19 | Rattata | 0 | ⬛ |
-| 20 | Raticate | 0 | ⬛ |
+| 17 | Pidgeotto | 350 | 🟩 |
+| 18 | Pidgeot | 350 | 🟩 |
+| 19 | Rattata | 350 | 🟩 |
+| 20 | Raticate | 0 | 🟨 |
 | 21 | Spearow | 0 | ⬛ |
 | 22 | Fearow | 0 | ⬛ |
 | 23 | Ekans | 0 | ⬛ |
