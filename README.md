@@ -54,12 +54,12 @@ I am currently in the eighth architecture of the Deep Learning model. Previously
 | 17 | Pidgeotto | 350 | 🟩 |
 | 18 | Pidgeot | 350 | 🟩 |
 | 19 | Rattata | 350 | 🟩 |
-| 20 | Raticate | 0 | 🟨 |
+| 20 | Raticate | 350 | 🟩 |
 | 21 | Spearow | 0 | ⬛ |
 | 22 | Fearow | 0 | ⬛ |
 | 23 | Ekans | 0 | ⬛ |
 | 24 | Arbok | 0 | ⬛ |
-| 25 | Pikachu | 0 | ⬛ |
+| 25 | Pikachu | 350 | 🟩 |
 | 26 | Raichu | 0 | ⬛ |
 | 27 | Sandshrew | 0 | ⬛ |
 | 28 | Sandslash | 0 | ⬛ |
