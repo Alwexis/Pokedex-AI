@@ -4,7 +4,10 @@ Deep Learning Model that aims to classify everyone of the 151 pokemons from the 
 ## Goal
 My goal is to **design**, **train** and **deploy** a **Deep Learning model** that can classify the 151 pokémon of the first generation, regardless of whether it is **art work**, **hand drawing**, **anime scenes** or **stuffed animals** and **figurines**.
 
-Some of the use cases I want to give to the model are: A **mobile application** that, when capturing images with the camera, can determine which pokémon it is. The other is quite similar, but instead of a mobile application, **an Arduino / Raspberry Pi system**. That is, a **Real Pokedex**. But before I start with these two projects, I want to complete at least **80%** of the pokémon (_121/151_).
+Some of the use cases I want to give to the model are: A **mobile application** that, when capturing images with the camera, can determine which pokémon it is. The other is quite similar, but instead of a mobile application, **an Arduino / Raspberry Pi system**. That is, a **Real Pokedex**. But before I start with these two projects, ~I want to complete at least **80%** of the pokémon (_121/151_).~
+
+#### Goal Update
+Due to complications with the model's training environment, the number of classes to be classified (151), and the enormous amount of time it takes to train it, the goal has changed significantly. Previously, the ideal or acceptable level to consider it complete was 80% of Pokémon (121), which is not entirely realistic if I want to keep it as a basic or low-scale model. Therefore, the model will be divided into two: The first will be responsible for correctly classifying at least 50 Pokémon from 1 to 48 (49 and 50 are excluded due to Mew and Mewtwo); The second model will be responsible for classifying ALL the initials (not alternate forms such as Alolan, Hisui, etc.).
 
 &nbsp;
 
